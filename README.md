@@ -1,6 +1,6 @@
 # Next Level Week - Ecoleta App
 
-[ecoleta image](./images/Ecoleta.png)
+![ecoleta image](./images/Ecoleta.png)
 
 Ecoleta é uma aplicação com o intuito de facilitar a comunicação entre as empresas que fazem coleta de resíduos e as pessoas.
 Facilita com que resíduos como lâmpadas, papéis, papelão, resíduos orgânicos, pilhas e baterias, entre outros, tenham o destino correto.
