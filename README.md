@@ -2,17 +2,26 @@
 
 ![ecoleta image](./images/Ecoleta.png)
 
-Ecoleta é uma aplicação com o intuito de facilitar a comunicação entre as empresas que fazem coleta de resíduos e as pessoas.
-Facilita com que resíduos como lâmpadas, papéis, papelão, resíduos orgânicos, pilhas e baterias, entre outros, tenham o destino correto.
+Ecoleta is an application that facilitates the communication between people and companies that dispose of materials like: batteries, paper, kitchen oil, electronics, lamps, organic residues.
 
-_Empresas_: faça o cadastro do estabelecimento de coleta, com informações de contato(e-mail e whatsapp), enedereço e items coletados.
+_Web_: allows companies to sign up and define: location, contact info (e-mail and whatsapp) and collected residues. 
 
-_Usuários_: entre em contato com uma empresa que coleta o resíduo.
+_Mobile_: allows people to search for companies based on location (using the map) and type of residue, and contact a company using e-mail or whatsapp.
+
+---
+
+### Technologies
+
+All code written using TypeScript
+
+_Backend_: Node.js, Express, Knex.js, SQLite
+
+_Frontend_: React.js
+
+_Mobile_: React Native, Expo
 
 ---
 
 ### Next Level Week
 
-Uma semana de aprendizado fornecida pela Rocketseat, onde conceitos de backend, frontend e mobile foram abordados.
-
-Construimos juntos uma aplicação do ínicio usando a stack Node, React e React Native. Para o banco de dados SQLite foi utilizado
+A coding event provided by Rocketseat where we create an entire application during the course of 1 week - backend, frontend web and mobile.
